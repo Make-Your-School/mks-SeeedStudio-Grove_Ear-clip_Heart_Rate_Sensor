@@ -21,7 +21,7 @@ embedded_example_file: "examples/Grove_Ear-clip_Heart_Rate_Sensor_minimal/Grove_
 
 # Pulssensor
 
-![Pulssensor](mys_mk_32.jpg)
+![Pulssensor](./mys_mk_32.jpg)
 
 ## Beschreibung
 Der Pulssensor ermöglicht es, den menschlichen Puls am Finger oder Ohr mithilfe der beiliegenden Klammer zu messen. Die Messung erfolgt dabei optisch. Unterschiedliche Blutbewegungen reflektieren das vom Sensor ausgestrahlte grüne Licht unterschiedlich auf den Sensor zurück. Durch die integrierte Messverstärkung und Aufbereitung, wird der Puls direkt ermittelt und ein digitales Signal ausgegeben.
