@@ -34,8 +34,6 @@ Alle weiteren Hintergrundinformationen, sowie ein Beispielaufbau und alle notwen
 Die genaue Bezeichnung des Sensors, die bei der Suche von Beschreibungen und Anleitungen wichtig sein kann, lautet PAH8001EI-2G.
 
 <!-- infolist -->
-
-<!-- infolists -->
 ## Wichtige Links für die ersten Schritte:
 
 - [Seeed Studio Wiki - Pulssensor](https://wiki.seeedstudio.com/Grove-Ear-clip_Heart_Rate_Sensor/)
