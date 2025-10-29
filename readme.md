@@ -15,6 +15,9 @@ clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Ear-clip_H
 repo_prefix: "mks"
 repo_part: "Grove_Ear-clip_Heart_Rate_Sensor"
 embedded_example_file: "examples/Grove_Ear-clip_Heart_Rate_Sensor_minimal/Grove_Ear-clip_Heart_Rate_Sensor_minimal.ino"
+title: 'Pulssensor'
+status: 'active'
+difficulty: 'advanced'
 ---
 
 
